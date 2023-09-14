@@ -41,6 +41,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandhya261996&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/sandhya261996/sandhya261996/blob/output/github-contribution-grid-snake.svg)
 
