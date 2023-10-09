@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif"alt="sandhya261996" /> </p>
+<p align="left"> <img src="" /> </p>
 <h1 align="center">Hi 👋 I'm Sandhya Kumari</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I write articles on Devops and cloud in https://hashnode.com/@sandy1996</h3>
 
