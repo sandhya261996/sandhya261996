@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064?username=sandhya261996&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya261996" /> </p>
+<p align="left"> <img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif"alt="sandhya261996" /> </p>
 <h1 align="center">Hi 👋 I'm Sandhya Kumari</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I write articles on Devops and cloud in https://hashnode.com/@sandy1996</h3>
 
