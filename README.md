@@ -1,4 +1,4 @@
-<p align="left"> <img src="" /> </p>
+<p align="left"> <img src="![myGif](https://github.com/sandhya261996/sandhya261996/assets/68163049/c60b71fc-b70b-46c6-b02b-7e35efe51a5c)" /> </p>
 <h1 align="center">Hi 👋 I'm Sandhya Kumari</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I write articles on Devops and cloud in https://hashnode.com/@sandy1996</h3>
 
