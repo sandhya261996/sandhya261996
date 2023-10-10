@@ -6,7 +6,7 @@ My name is Sandhya. I'm a software engineer, technical blogger [https://techwith
 
 
 ### 🧐 Some Things About Me
-- 💼 Software Engineer Nihilent Analytics
+- 💼 Software Engineer at Nihilent Analytics
 - ✍️Technical Blogger at Hashnode.
 - 🌐 Exists somewhere on [Linkedin](https://www.linkedin.com/in/sandhya-upadhayay/), [Hashnode](https://techwithsandhya.hashnode.dev/).
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
