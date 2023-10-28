@@ -2,7 +2,7 @@
 
 ### 👋 Hello world!
 
-My name is Sandhya. I'm a software engineer, technical blogger [https://techwithsandhya.hashnode.dev/) and Women Who Code evangelist. Besides loving my job and my side hustles, I love to read books, writing articles and collect quotes. As a technical content writer, I write for the largest publishers on [https://techwithsandhya.hashnode.dev/).
+My name is Sandhya. I'm a Cloud/Devops Enthusiast, technical blogger [https://techwithsandhya.hashnode.dev/) and Women Who Code evangelist. Besides loving my job and my side hustles, I love to read books, writing articles and collect quotes. As a technical content writer, I write for the largest publishers on [https://techwithsandhya.hashnode.dev/).
 
 
 ### 🧐 Some Things About Me
