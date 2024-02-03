@@ -8,9 +8,8 @@ My name is Sandhya. I'm a Cloud/Devops Enthusiast, technical blogger [https://te
 ### 🧐 Some Things About Me
 - ✍️Technical Blogger at Hashnode.
 - 🌐 Exists somewhere on [Linkedin](https://www.linkedin.com/in/sandhya-upadhayay/), [Hashnode](https://techwithsandhya.hashnode.dev/).
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops and testing Automation Tools**
 - 👨‍💻 All of my projects are available at [https://github.com/sandhya261996](https://github.com/sandhya261996)
-- 📝 I regularly write articles on [https://hashnode.com/@sandy1996](https://hashnode.com/@sandy1996)
 - 📫 How to reach me **sandhyantpl.134@gmail.com**
 - 😄 Pronouns: She/her
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
